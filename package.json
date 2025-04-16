@@ -1,6 +1,5 @@
-
 {
-  "name": "tvemax",
+  "name": "tvemax-nextjs",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
@@ -8,10 +7,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "framer-motion": "^10.16.3",
+    "lucide-react": "^0.270.0",
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "framer-motion": "latest",
-    "lucide-react": "latest"
+    "react-dom": "latest"
   }
 }

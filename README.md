@@ -1,3 +1,3 @@
-# TVEMAX Site
+# TVEMAX Streaming Site
 
-Sitio web oficial para servicios de streaming TVEMAX.
+Sitio web oficial de TVEMAX para la venta de servicios de streaming por internet.
